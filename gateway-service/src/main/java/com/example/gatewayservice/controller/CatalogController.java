@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 
 
 @RestController
-@RequestMapping("/catalog")
+@RequestMapping("/gateway")
 @RequiredArgsConstructor
 public class CatalogController {
 
